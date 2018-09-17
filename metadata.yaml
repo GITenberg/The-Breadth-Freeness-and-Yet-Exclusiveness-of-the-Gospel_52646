@@ -1,0 +1,24 @@
+_repo: The-Breadth-Freeness-and-Yet-Exclusiveness-of-the-Gospel_52646
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Hoare, Edward
+    birthdate: 1812
+    deathdate: 1894
+    gutenberg_agent_id: '39940'
+    url: http://www.gutenberg.org/2009/agents/39940
+description: ''
+gutenberg_issued: '2016-07-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '52646'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Bible. Gospels -- Criticism, interpretation, etc.'
+- !lcc 'BS'
+- GITenberg
+title: The Breadth, Freeness, and Yet Exclusiveness of the Gospel
+url: http://www.gutenberg.org/ebooks/52646
